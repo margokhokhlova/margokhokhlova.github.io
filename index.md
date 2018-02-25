@@ -4,6 +4,10 @@ I am Margo, a  PhD student in Computer Vision at Université de Bourgogne
 
 ### Markdown
 
+---
+title: My page
+permalink: contact.html
+---
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
