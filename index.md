@@ -1,13 +1,9 @@
 ## Welcome to my personal website
 
-I am Margo, a  PhD student in Computer Vision at Université de Bourgogne
+I am Margo, a  PhD student in Computer Vision at Université de Bourgogne. My specialalizaiton is the gait analysis in clinical settings and I am trying to use some depth sensors to do that. 
+Here is my small peronal blog with the notes on the things I have learned through my PhD and maybe some general thoughts. 
 
-### Markdown
-
----
-title: My page
-permalink: contact.html
----
+## Always look at the bright side of life
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -30,10 +26,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/margokhokhlova/margokhokhlova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Please, contact me by margokhokhlova@gmail.com if you have any thoughts/ideas/corrections/suggestings for the info published here.
